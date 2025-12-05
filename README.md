@@ -1,4 +1,4 @@
-# 🚀 Running the Executables (Mac & Windows Guide)
+#  Running the Executables (Mac & Windows Guide)
 
 This contest contains several **reverse-coding problems**, each with a provided executable simulator.
 Use these executables to test your own inputs and understand the hidden logic behind each problem.
@@ -7,11 +7,11 @@ Below are the instructions to run the files on **macOS** and **Windows**.
 
 ---
 
-# 🖥️ **Windows Instructions**
+# **Windows Instructions**
 
 Windows executables are provided as `.exe` files.
 
-### ▶️ **To run:**
+### **To run:**
 
 Simply double-click the file, or run from Command Prompt:
 
@@ -29,23 +29,23 @@ Example:
 
 ---
 
-# 🍏 **macOS Instructions (VERY IMPORTANT)**
+# **macOS Instructions (VERY IMPORTANT)**
 
 macOS blocks downloaded executables by default (shows “Permission Denied” or “Developer cannot be verified”).
 Follow these steps to fix it **for the entire folder** containing the executables.
 
-### ▶️ **1. Open Terminal inside the folder**
+### **1. Open Terminal inside the folder**
 
 Right-click → **New Terminal at Folder**
 (or `cd` into the folder manually)
 
-### ▶️ **2. Give execute permissions to all files**
+###  **2. Give execute permissions to all files**
 
 ```bash
 chmod -R +x ./
 ```
 
-### ▶️ **3. Remove the quarantine flag from the whole folder**
+### **3. Remove the quarantine flag from the whole folder**
 
 ```bash
 xattr -dr com.apple.quarantine ./
@@ -59,7 +59,7 @@ chmod -R +x ./
 xattr -dr com.apple.quarantine ./
 ```
 
-### ▶️ **4. Run any executable**
+### **4. Run any executable**
 
 Example:
 
@@ -80,7 +80,7 @@ Then run it again.
 
 ---
 
-# ✅ You're Ready!
+#  You're Ready!
 
 You can now run all simulator executables for:
 
