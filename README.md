@@ -1,5 +1,19 @@
 #  Running the Executables (Mac & Windows Guide)
 
+## 📘 Reverse Coding — Tutorial Video (Must Watch Before Contest)
+
+I’ve created a short tutorial video explaining **Reverse Coding**, how **Round 1** works**,** and what kind of questions to expect.
+
+👉 **Please watch it before the contest** — it will give you a clear understanding of the format and help you perform better.
+
+### 🎥 Tutorial Videos
+- **Reverse Coding & Round 1 Overview:**  
+  https://youtu.be/9GlFC4NvSfY
+
+- **MacOS Tutorial for Binary Files:**  
+  https://youtu.be/7Sp6-f7Jw4Y
+
+
 This contest contains several **reverse-coding problems**, each with a provided executable simulator.
 Use these executables to test your own inputs and understand the hidden logic behind each problem.
 
